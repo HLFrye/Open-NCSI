@@ -1,0 +1,7 @@
+c:\users\frye\documents\visual studio 2010\Projects\NCSIServ\NCSIServ\bin\NCSIServ.dll
+c:\users\frye\documents\visual studio 2010\Projects\NCSIServ\NCSIServ\bin\NCSIServ.pdb
+c:\users\frye\documents\visual studio 2010\Projects\NCSIServ\NCSIServ\obj\Debug\ResolveAssemblyReference.cache
+c:\users\frye\documents\visual studio 2010\Projects\NCSIServ\NCSIServ\obj\Debug\NCSIServ.dll
+c:\users\frye\documents\visual studio 2010\Projects\NCSIServ\NCSIServ\obj\Debug\NCSIServ.pdb
+C:\Users\Frye\Documents\Visual Studio 2010\Projects\NCSIServ\NCSIServ\bin\System.Web.Mvc.dll
+C:\Users\Frye\Documents\Visual Studio 2010\Projects\NCSIServ\NCSIServ\bin\System.Web.Mvc.xml
